@@ -1,6 +1,16 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-04-12 T 19:20:00-05:00
+Última actualización/Last update: 2020-04-13 T 21:12:00-05:00
+
+**Nota/Note:**
+
+2020-04-12: La Secretaría de Salud ha publicado un archivo con datos abiertos sobre pacientes con COVID-19 en formato ```.csv```, disponible [aquí](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
+A partir de hoy archivaré las versiones de los datos allí contenidos en esta [carpeta](https://github.com/carranco-sga/Mexico-COVID-19/tree/master/Official%20Open%20Data%20Archive).
+*Muchas gracias al Dr. Ricardo Cortés Alcalá por ayudar a hacer estos datos públicos.*
+
+2020-04-12: The Health Secretariat has published a file with open data about COVID-19 patients in ```.csv``` format, available [here](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
+From now on I'll be archiving the data there published in this [folder](https://github.com/carranco-sga/Mexico-COVID-19/tree/master/Official%20Open%20Data%20Archive).
+*Special thanks to Dr. Ricardo Cortés Alcalá for his help in making this data public.*
 
 **Nota/Note:**
 
