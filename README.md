@@ -1,6 +1,14 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-04-15 T 19:10:00-05:00
+Última actualización/Last update: 2020-04-16 T 19:50:00-05:00
+
+**Nota/Note:**
+
+2020-04-16: Se depreca ```Mexico_COVID19.ods```, se seguirá actualizando el archivo ```Mexico_COVID19.csv```. 
+Ambas contenían la misma información.
+
+2020-04-16: The ```Mexico_COVID19.ods``` file is deprecated in favor of the ```Mexico_COVID19.csv``` one.
+Both contained the same information.
 
 **Nota/Note:**
 
