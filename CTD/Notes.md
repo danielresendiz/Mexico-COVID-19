@@ -16,7 +16,7 @@ Both contained the same information.
 
 - A inconsistency of one death (and thus one positive case) in Durango between yesterday and today in the Daily Technical Communiqués (and in the respective suspect and positive cases tables).
 
-## 2020-04-12
+## 2020-04-13
 
 - La Secretaría de Salud ha publicado un archivo con datos abiertos sobre pacientes con COVID-19 en formato ```.csv```, disponible [aquí](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
 A partir de hoy archivaré las versiones de los datos allí contenidos en esta [carpeta](https://github.com/carranco-sga/Mexico-COVID-19/tree/master/Official%20Open%20Data%20Archive).
