@@ -30,7 +30,7 @@ In this repository we seek to archive and scrape into more usable formats the of
 
 Currently, we *archive* three types of documents:
 
--**Daily**: The Daily Technical Communiqués (*CTD* by its acronym in Spanish) and the tables of positive and suspect cases that are published [along them](https://www.gob.mx/salud/documentos/coronavirus-covid-19-comunicado-tecnico-diario-238449).
+- **Daily**: The Daily Technical Communiqués (*CTD* by its acronym in Spanish) and the tables of positive and suspect cases that are published [along them](https://www.gob.mx/salud/documentos/coronavirus-covid-19-comunicado-tecnico-diario-238449).
 (The CTD are archived in `CTD/Documents` from the first one that has been published in 2020-01-23.
 The tables are archived since 2020-03-14 in `CTD/Tablas_casos`.
 We are aware that there were tables published before, but [they aren't available](https://github.com/carranco-sga/Mexico-COVID-19/issues/1).)
@@ -39,11 +39,16 @@ We are aware that there were tables published before, but [they aren't available
 
 To facilitate the usage of the data:
 
--**Daily**: The tables of (positive, suspect and deceased by state) cases of the CTD are scraped into the `.csv` format.
+- **Daily**: The tables of (positive, suspect and deceased by state) cases of the CTD are scraped into the `.csv` format.
 The results are filed in `CTD/Scraped_data`.
--**Daily**: The historical briefing table (a time series) `Mexico_COVID19_CTD.csv` is updated with confirmed, suspect and deceased cases by state.
+- **Daily**: The historical briefing table (a time series) `Mexico_COVID19_CTD.csv` is updated with confirmed, suspect and deceased cases by state.
 The description of the fields is available in `CTD/README.md`.
 - **In necessary case**: We add notes on discrepancies and considerations on the data or news related to them in `CTD/Notes.md`.
+
+## Otros proyectos/other projects:
+
+Están listados en `Other_resources.md`.
+They're listed in `Other_resources.md`.
 
 ## Contacto/Contact
 
