@@ -8,8 +8,14 @@ using ZipFile, CSV, DataFrames, Dates
 #Definimos una función para clasificar un paciente como vivo (true) o fallecido (false) dependiendo de la fecha de corte:
 function clasificación_vivo(fecha_corte, row)
 
+    #Si la fecha de defunción no está dada (missing), devolvemos vcerdadero:
+    if ismissing(row[:FECHA_DEF])
+
+        return true
+    end
+
     #Si la fecha de defunción está definida, revisamos la fecha de corte:
-    if row[:FECHA_DEF] != "9999-99-99"
+    if (row[:FECHA_DEF] != "9999-99-99")
 
         #Si estamos en la fecha de corte o después, consideramos al paciente como fallecido.
         if Date(row[:FECHA_DEF]) <= fecha_corte
