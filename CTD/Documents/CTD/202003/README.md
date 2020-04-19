@@ -1,49 +1,7 @@
 # Comunicado técnico diario / Daily technical communiqué
 
-[Listado](https://www.gob.mx/salud/documentos/informacion-internacional-y-nacional-sobre-nuevo-coronavirus-2019-ncov)
-
-Última actualización: 2020-04-18 T 19:30:00-05:00
-
 | Fecha               | Link        |
 | ------------------- | ----------  |
-| 2020-01-23          | [Link](https://www.gob.mx/salud/prensa/017-nuevo-coronavirus?idiom=es)  |
-| 2020-01-24          | [Link](https://www.gob.mx/salud/prensa/019-nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-01-25          | [Link](https://www.gob.mx/salud/prensa/022-nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-01-26          | [Link](https://www.gob.mx/salud/prensa/025-nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-01-27          | [Link](https://www.gob.mx/salud/prensa/028-nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-01-28          | [Link](https://www.gob.mx/salud/prensa/030-nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-01-29          | [Link](https://www.gob.mx/salud/prensa/31-nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-01-30          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-233610?idiom=es)  |
-| 2020-01-31          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-02-01          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-233796?idiom=es)  |
-| 2020-02-02          | [Link](https://www.gob.mx/salud/prensa/038-nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-02-03          | [Link](https://www.gob.mx/salud/prensa/040-nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-02-04          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-233900?idiom=es)  |
-| 2020-02-05          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-234061?idiom=es)  |
-| 2020-02-06          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-234104?idiom=es)  |
-| 2020-02-07          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-234204?idiom=es)  |
-| 2020-02-08          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-234269?idiom=es)  |
-| 2020-02-09          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-234273?idiom=es)  |
-| 2020-02-10          | [Link](https://www.gob.mx/salud/prensa/052-nuevo-coronavirus-comunicado-tecnico-diario?idiom=es)  |
-| 2020-02-11          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-234533?idiom=es)  |
-| 2020-02-12          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-comunicado-tecnico-diario-234697?idiom=es)  |
-| 2020-02-13          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario?idiom=es)  |
-| 2020-02-14          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-234939?idiom=es)  |
-| 2020-02-15          | [Link](https://www.gob.mx/salud/prensa/063-nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario?idiom=es)  |
-| 2020-02-16          | [Link](https://www.gob.mx/salud/prensa/064-nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario?idiom=es)  |
-| 2020-02-17          | [Link](https://www.gob.mx/salud/prensa/065-nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario?idiom=es)  |
-| 2020-02-18          | [Link](https://www.gob.mx/salud/prensa/065-nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-235210?idiom=es)  |
-| 2020-02-19          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-235410?idiom=es)  |
-| 2020-02-20          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-235555?idiom=es)  |
-| 2020-02-21          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-235592?idiom=es)  |
-| 2020-02-22          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-235658?idiom=es)  |
-| 2020-02-23          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-235667?idiom=es)  |
-| 2020-02-24          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-235764?idiom=es)  |
-| 2020-02-25          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-235867?idiom=es)  |
-| 2020-02-26          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-236086?idiom=es)  |
-| 2020-02-27          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-236176?idiom=es)  |
-| 2020-02-28          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-236339?idiom=es)  |
-| 2020-02-29          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-236362?idiom=es)  |
 | 2020-03-01          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-236388?idiom=es)  |
 | 2020-03-02          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-236525?idiom=es)  |
 | 2020-03-03          | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-236595?idiom=es)  |
@@ -75,21 +33,4 @@
 | 2020-03-29           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239170?idiom=es) |
 | 2020-03-30           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239244?idiom=es) |
 | 2020-03-31           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239396?idiom=es) |
-| 2020-04-01           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239526?idiom=es) |
-| 2020-04-02           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239588?idiom=es) |
-| 2020-04-03           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239704?idiom=es) |
-| 2020-04-04           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239732?idiom=es) |
-| 2020-04-05           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239741?idiom=es) |
-| 2020-04-06           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239810?idiom=es) |
-| 2020-04-07           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239867?idiom=es) |
-| 2020-04-08           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-239963?idiom=es) |
-| 2020-04-09           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240045?idiom=es) |
-| 2020-04-10           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240098?idiom=es) |
-| 2020-04-11           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240161?idiom=es) |
-| 2020-04-12           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240175?idiom=es) |
-| 2020-04-13           | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240221?idiom=es) |
-| 2020-04-14   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240290?idiom=es)  |
-| 2020-04-15   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240372?idiom=es)  |
-| 2020-04-16   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240429?idiom=es)  |
-| 2020-04-17   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240533?idiom=es)  |
-| 2020-04-18   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-240548?idiom=es)  |
+| ------------------- | ----------  |
