@@ -70,7 +70,7 @@ Personalmente me he limitado a cambiar la ortografía de las entidades de las ta
 Para el análisis de separar casos como locales o importados por estado, mostrado [aqui](https://github.com/carranco-sga/Mexico-COVID-19/blob/01a9a953e23c1fa135be3c78e793500604b58eb1/Mexico_COVID19.csv) y [aquí](https://github.com/carranco-sga/Mexico-COVID-19/blob/01a9a953e23c1fa135be3c78e793500604b58eb1/Mexico_COVID19.ods), las palabras clave en la columna ```País_fuente``` de la lista de casos positivos usadas para clasificar un caso positivo como local se muestran [aquí](https://github.com/carranco-sga/Mexico-COVID-19/blob/01a9a953e23c1fa135be3c78e793500604b58eb1/Scraping/csv_daily_scraping.jl#L10).
 *Gracias a Luis G. Canales y a Luis López Martinelli por sus observaciones.*
 
-  - 2020-04-09, **addenda**: Respecto a los datos del día 2020-04-06 en los que existen varias inconsistencias, [wfms](https://www.wfms.org/mx-covid19/) también realiza algunos comentarios al respecto.
+  - 2020-04-09, **addenda**: Respecto a los datos del día 2020-04-06 en los que existen varias inconsistencias, por William F. Sotomayor ([wfms](https://www.wfms.org/mx-covid19/)) también realiza algunos comentarios al respecto.
   Adicionalmente, identifica los números aleatorios que aparecen en los campos de fechas como errores de "Power Query" de Excel.
   *Gracias a wfms por sus comentarios.*
 
@@ -87,9 +87,9 @@ To do the analysis of classifying the positive cases per state as local or impor
 [here](https://github.com/carranco-sga/Mexico-COVID-19/blob/01a9a953e23c1fa135be3c78e793500604b58eb1/Scraping/csv_daily_scraping.jl#L10).
 *Special thanks to Luis G. Canales and to Luis López Martinelli for their observations.*
 
-  - 2020-04-09, **addenda**: Regarding the data of the day 2020-04-06 in which several inconsistencies are found, [wfms](https://www.wfms.org/mx-covid19/) also comments about them.
+  - 2020-04-09, **addenda**: Regarding the data of the day 2020-04-06 in which several inconsistencies are found, William F. Sotomayor ([wfms](https://www.wfms.org/mx-covid19/)) also comments about them.
   Additionally, they identify the random numbers that appear on the data fields as errors of "Power Query" of Excel.
-  *Thanks wfms for their comments.*
+  *Thanks wfms for his comments.*
 
   - 2020-04-11, **addenda**: Additionally, I forgot to comment that I made the following modifications to the countries of procedence:
   I replaced "Trieste" by "Italia" and "Estados" by "Estados Unidos".
