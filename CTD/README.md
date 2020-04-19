@@ -1,20 +1,24 @@
-# Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
+# Archivo de los Comunicados Técnicos Diarios y tablas de casos relacionadas / Archive of the Daily Technical Communiqué and related cases tables.
 
-Última actualización/Last update: 2020-04-18 T 19:30:00-05:00
+En este directorio se archivan los Comunicados Técnicos Diarios (CTDs) originales y las tablas `.csv` de los datos provenientes de los mismos.
+
+In this folder we archive the Daily Technical Communiqués (CTDs, by their acronym in Spanish) as well as the tables of their data in `.csv` format.
+
+# Descripción de la tabla resumen/Description of the briefing table.
 
 ## Español
 Información de casos de COVID-19 dada a conocer por el Gobierno Federal de México desglosada por entidad.
 
 La información es extraída de los Comunicados Técnicos Diarios (CTD) publicados por la Secretaría de Salud Federal.
 
-Los datos por día y estado están contenidos en ```Mexico_COVID19.ods```. Un archivo ```.csv``` con datos idénticos se proporciona por conveniencia.
+Los datos por día y estado están contenidos en ```Mexico_COVID19_CTD.csv```.
 Las columnas están nombradas de acuerdo al siguiente formato: ```EDO_{key}```. ```EDO``` es el [código ISO de tres letras del estado](https://www.iso.org/obp/ui/#iso:code:3166:MX). ```key``` puede tener los siguientes valores:
 
 - ```S```: representa el número total de casos sospechosos en el estado.
-- ```I```: representa el número de casos confirmados(°) importados del extranjero al estado.
-- ```L```: representa el número de casos confirmados locales dados en el estado.
+- *Deprecado desde el 2020-04-08. Ver Notes.md* ```I```: representa el número de casos confirmados(°) importados del extranjero al estado.
+- *Deprecado desde el 2020-04-08. Ver Notes.md* ```L```: representa el número de casos confirmados locales dados en el estado.
 - *ninguno*: representa el número total de casos confirmados en el estado.
-- ```R```: representa el número total de casos confirmados recuperados(°°) en el estado. No se publica información del número por estado desde el 23 de Marzo.
+- *Deprecado desde el 2020-03-23. Ver Notes.md* ```R```: representa el número total de casos confirmados recuperados(°°) en el estado. No se publica información del número por estado desde el 23 de Marzo.
 - ```D```: representa el número total de casos confirmados fallecidos en el estado.
 
 Adicionalmente,  se tienen las siguientes columnas:
@@ -52,15 +56,15 @@ Information of cases of COVID-19 distributed by the Mexican Federal Government r
 
 The information is extracted of the Daily Technical Communiqués (CTD by its acronym in Spanish) published by the Federal Health Secretariat.
 
-The data by day and state are contained in ```Mexico_COVID19.ods```. A ```.csv``` file with identical data is uploaded for convenience.
+The data by day and state are contained in ```Mexico_COVID19_CTD.csv```.
 
 The columns are named according to the following format: ```EDO_{key}```. ```EDO``` is the [three-letter ISO code for the state](https://www.iso.org/obp/ui/#iso:code:3166:MX). ```key``` takes the following values:
 
 - ```S```: represents the total number of suspect cases in the state.
-- ```I```: represents the number of confirmed(°) cases, imported from abroad to the state.
-- ```L```: represents the number of confirmed local cases in the state.
+- *Deprecated from 2020-04-08 onwards. Cf. Notes.md* ```I```: represents the number of confirmed(°) cases, imported from abroad to the state.
+- *Deprecated from 2020-04-08 onwards. Cf. Notes.md* ```L```: represents the number of confirmed local cases in the state.
 - *none*: represents the total number of cases in the state.
-- ```R```: represents the number of confirmed cases that have recovered(°°) in the state. No information about the number of recovered cases per state is published from March 23 onwards.
+- *Deprecated from 2020-03-23 onwards. Cf. Notes.md* ```R```: represents the number of confirmed cases that have recovered(°°) in the state. No information about the number of recovered cases per state is published from March 23 onwards.
 - ```D```: represents the number of confirmed cases that have died in the state.
 
 Aditionally, we have the following columns:
