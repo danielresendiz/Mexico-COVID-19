@@ -1,6 +1,5 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-04-17 T 20:10:00-05:00
 
 **Nota/Note:**
 
@@ -161,6 +160,7 @@ An interactive visualization of the data by date and with a graphical representa
 Una animación del número de casos por entidad a forma de carrera, realizada por Hugo Mosh Cardoza [aquí](https://observablehq.com/@hugomosh/progreso-covid-19-mexico)
 
 An animation of the number of cases by state represented as a race, made by Hugo Mosh Cardoza [here](https://observablehq.com/@hugomosh/progreso-covid-19-mexico)
+Última actualización/Last update: 2020-04-18 T 19:30:00-05:00
 
 ## Español
 Información de casos de COVID-19 dada a conocer por el Gobierno Federal de México desglosada por entidad.
