@@ -1,6 +1,9 @@
 # Notas para los CTD/Notes for the CTDs:
 
-Última actualización/Last update: 2020-04-16 T 19:50:00-05:00
+## 2020-04-20
+
+- El día de ayer (2020-04-19), la SSa no publicó tablas de casos sospechosos ni confirmados, al parecer dado a que se están publicado datos abiertos. (Ver `Open_data`.)
+- Yesterday (2020-04-19), the SSa did not publish tables of suspect or confirmed cases. This seems the result of open data being published. (Cf. `Open_data`.)
 
 ## 2020-04-16
 

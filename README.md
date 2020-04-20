@@ -1,10 +1,19 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-04-18 T 19:30:00-05:00
+Última actualización/Last update: 2020-04-20 T 1:30:00-05:00
 
 **Nota/Note**:
 Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
 Am currently reordering the repository to make it more legible. I apologize for the inconvenience and for the delay in answering emails.
+
+## Nota importante / Important note
+
+El día de ayer, 2020-04-19, la SSa no publicó tablas de casos sospechosos ni confirmados de la forma en la que se hizo desde marzo.
+Para completar la tabla resumen se usaron los datos abiertos del día.
+
+Yesterday, 2020-04-19, the SSa did not publush tables of suspect and confirmed cases as it has been done since March.
+To complete the briefing table the open data database of the day was used.
+
 
 ## Español
 En este respositorio se busca archivar y poner en un formato más accesible la información oficial publicada por la Secretaría de Salud Federal de México. (SSa)
