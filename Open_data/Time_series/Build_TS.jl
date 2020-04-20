@@ -109,7 +109,7 @@ function información_fecha(datos, fecha)
 end
 
 #Definamos una función que itere sobre las fechas y genere la tabla resumen:
-function tabla_resumen(datos, fecha_análisis, fecha_máxima = fecha_análisis, fecha_mínima = Date("2020-02-27"))
+function tabla_resumen(datos, fecha_análisis, fecha_máxima = fecha_análisis, fecha_mínima = Date("2020-01-01"))
 
     #Construyamos el header del .csv:
     #Definamos las abreviaturas de las entidades en orden: claves 1, 2, 3,... 32.
