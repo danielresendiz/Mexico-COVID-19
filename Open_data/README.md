@@ -6,12 +6,12 @@
 2020-04-19: A partir de hoy, los datos incluyen un identificador anónimo para cada paciente.
 Adicionalmente, la SSa ha publicado un archivo de las bases de datos publicadas [aquí](https://www.gob.mx/salud/documentos/datos-abiertos-bases-historicas-direccion-general-de-epidemiologia).
 Este archivo incluye datos desde el 2020-04-12 con los identificadores de cada paciente incluídos.
-Estas bases de datos se archivan en `Open_data/COVID-19/Official_archive` para compararlas con las archivadas originalmente.
+Se sustituyen las bases de datos archivadas originalmente por las que incluyen los identificadores de los pacientes.
 
 2020-04-19: From now on, the data include an anonymous identifier for each patient.
 Additionally, the SSa has published an archive of the published databases [here](https://www.gob.mx/salud/documentos/datos-abiertos-bases-historicas-direccion-general-de-epidemiologia).
 This archive includes data from 2020-04-12 onwards with the identifiers of each patient included.
-These databases are archived in `Open_data/COVID-19/Official_archive` to compare them with the ones originally archived.
+The original archived databases are replaced with the ones coming from the official archive including the identifiers of each patient.
 
 **Revisar nota 2020-04-19** El 2020-04-13 la SSa publicó por primera vez, hasta dónde conozco, datos abiertos en ```.csv``` respecto a COVID-19 en el país.
 Esta sección del repositorio se dedicará a archivar dichos datos, disponibles [aquí](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
