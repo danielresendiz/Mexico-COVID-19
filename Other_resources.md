@@ -18,6 +18,14 @@ Listing of some interesting links.
 
   The Health Secretariat has published a file with open data about confirmed and suspect COVID-19 patients in ```.csv``` format. It is available [here](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
 
+- CONACyT (Consejo Nacional de Ciencia y Tecnología) mantiene un tablero oficial con diferentes visualizaciones de datos a nivel nacional, estatal y municipal.
+Adicionalmente, se pueden descargar ciertas bases de datos filtrados por tipo de casos, etc.
+Disponible [aquí](https://coronavirus.gob.mx/datos/).
+
+  CONACyT (National Council for Science and Technology, by its acronym in Spanish) maintains an official dashboard with visualizations of data at the national, state and municipal levels.
+  Additionally, databases filtered by type of cases, etc. can be downloaded.
+  Available [here](https://coronavirus.gob.mx/datos/).
+
 ## Otras bases de datos y visualizaciones/Other datasets and visualizations:
 
 - Dataset de latinoamérica [aquí](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica), por DSRP.
