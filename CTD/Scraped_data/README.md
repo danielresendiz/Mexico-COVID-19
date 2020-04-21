@@ -1,5 +1,15 @@
 # Casos y fallecimientos  diarios / Daily cases and deaths
 
+**Note/Nota**
+
+2020-04-20: Parece ser que la SSa ha deprecado la publicación de las tablas de casos sospechosos, positivos y defunciones de la manera que lo hacía con el CTD y las tablas que le acompañaban.
+Sin embargo, esta información está disponible en formato abierto.
+(Revisar `README.md` y `Open_data` en el repositorio.)
+
+2020-04-20: It seems that the SSa has deprecated the publishing of the tables of suspect and confirmed cases along with the tables of number of deceased patients by state in the CTD and accompanying tables.
+However, this information is available as open data.
+(Check `README.md` and `Open_data` in this repository.)
+
 ## Español
 
 Listado acumulado de los fallecimientos por día y por estado a partir del reporte del primer caso confirmado. (```fallecidos_{fecha}.csv```).

@@ -2,6 +2,12 @@
 
 **Note/Nota**
 
+2020-04-20: El día de hoy la SSa no publicó tampoco tablas de casos sospechosos ni confirmados, así como tampoco incluye el mapa resumen usual en el CTD ni la tabla de defunciones desglosada por estados.
+
+2020-04-20: Today, the SSa did not publish tables of suspect and confirmed cases, nor it included the usual synthesis map nor the table of deaths by state.
+
+**Note/Nota**
+
 2020-04-20: El día de ayer (2020-04-19), la SSa no publicó tablas de casos sospechosos ni confirmados, al parecer dado a que se están publicado datos abiertos. (Ver `Open_data`.)
 
 2020-04-20: Yesterday (2020-04-19), the SSa did not publish tables of suspect or confirmed cases. This seems the result of open data being published. (Cf. `Open_data`.)
