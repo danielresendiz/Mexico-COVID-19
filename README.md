@@ -1,6 +1,6 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-04-20 T 1:30:00-05:00
+Última actualización/Last update: 2020-04-20 T 21:45:00-05:00
 
 **Nota/Note**:
 Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
@@ -8,10 +8,20 @@ Am currently reordering the repository to make it more legible. I apologize for 
 
 ## Nota importante / Important note
 
-El día de ayer, 2020-04-19, la SSa no publicó tablas de casos sospechosos ni confirmados de la forma en la que se hizo desde marzo.
+2020-04-20: La SSa aparentemente ha deprecado publicar la información de casos sospechosos, positivos y defunciones por estado de la forma en la que lo hacía.
+La información ahora se reporta en forma abierta en forma de archivos `.csv`. (Cf. `Open_data`)
+El último par de días, la información en la tabla resumen se ha obtenido de los datos abiertos.
+Proximamente espero reemplazar esta por una tabla aún más desglosada, que está en proceso de construcción.
+
+2020-04-20: The SSa has aparently deprecated publishing the information of suspect and positive cases along the number of deceased by state in the way it used to.
+The information is now published as open data, as a `.csv` table. (Cf. `Open_data`)
+The last couple of days, the infomation of the briefing table has been obtained from the open data.
+Soon I expect to replace the old briefing table by one containing further information. It is currently being built.
+
+2020-04-20 El día de ayer, 2020-04-19, la SSa no publicó tablas de casos sospechosos ni confirmados de la forma en la que se hizo desde marzo.
 Para completar la tabla resumen se usaron los datos abiertos del día.
 
-Yesterday, 2020-04-19, the SSa did not publush tables of suspect and confirmed cases as it has been done since March.
+2020-04-20 Yesterday, 2020-04-19, the SSa did not publush tables of suspect and confirmed cases as it has been done since March.
 To complete the briefing table the open data database of the day was used.
 
 
