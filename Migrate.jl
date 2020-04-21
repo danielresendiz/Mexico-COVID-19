@@ -18,7 +18,7 @@ end
 
 #Actualiza la tabla cumulativa del día a partir de la fecha y los datos de las series de tiempo conjeturadas.
 #La fecha se debe de poner como string e.g. "20200320"
-function fila_actualización(fecha, positivos_reportados, sospechosos_reportados, negativos_reportados)
+function fila_actualización(fecha)
 
     #Cargamos las series de tiempo
     datos = CSV.read("Open_data/Time_series/Mexico_COVID19_$fecha.csv", header = 1)
@@ -30,9 +30,9 @@ function fila_actualización(fecha, positivos_reportados, sospechosos_reportados
     acumulado_país = sum(casos_estados)
 
     #Calcula el número total de muestras analizadas.
-    total_tests = acumulado_país[4] + negativos_reportados
+    total_tests = acumulado_país[4] + missing
     #Genera un vector con el número de casos positivos importados, locales, total de casos; positivos reportados, sospechosos reportados, negativos reportados, número total de pruebas, número de casos recuperados y número de casos fallecidos (para mantener el orden de la tabla original):
-    reporte_país = [acumulado_país[1:4]..., positivos_reportados, sospechosos_reportados, negativos_reportados, missing, total_tests, acumulado_país[5:6]...]
+    reporte_país = [acumulado_país[1:4]..., missing, missing, missing, missing, total_tests, acumulado_país[5:6]...]
 
     #Genera la fila de datos del día correspondiente:
     fila = string.(vcat(casos_estados..., reporte_país))
