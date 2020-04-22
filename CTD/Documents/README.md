@@ -2,6 +2,14 @@
 
 **Note/Nota**
 
+2020-04-21: El CTD hoy vuelve a incluir un mapa semejante al original, pero que contiene los casos "activos" (con fecha de inicio de síntomas durante los últimos 14 días), así como la tabla de número de fallecimientos por estado.
+La tabla de fallecimientos se vuelve a transcribir.
+
+2020-04-21: The CTD again includes a map similar to the original one used, but that includes the "active" cases (those that have their initial symptoms date during the last 14 days), as well as the table of number of deaths by state.
+The table of deaths is transcribed again.
+
+**Note/Nota**
+
 2020-04-20: El día de hoy la SSa no publicó tampoco tablas de casos sospechosos ni confirmados, así como tampoco incluye el mapa resumen usual en el CTD ni la tabla de defunciones desglosada por estados.
 
 2020-04-20: Today, the SSa did not publish tables of suspect and confirmed cases, nor it included the usual synthesis map nor the table of deaths by state.
