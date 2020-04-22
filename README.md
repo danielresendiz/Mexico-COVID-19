@@ -1,12 +1,18 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-04-20 T 21:45:00-05:00
+Última actualización/Last update: 2020-04-21 T 22:10:00-05:00
 
 **Nota/Note**:
 Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
 Am currently reordering the repository to make it more legible. I apologize for the inconvenience and for the delay in answering emails.
 
-## Nota importante / Important note
+## Nota importantes / Important notes
+
+2020-04-21: El CTD vuelve a tener un mapa con casos activos (con inicio de síntomas en los últimos 14 días) y la tabla de defunciones por estado.
+La tabla de defunciones se vuelve a transcribir, sin embargo, la tabla resumen se actualiza con la información de los datos abiertos.
+
+2020-04-21: The CTD again includes a map with active cases (those with initial symptoms date in the last 14 days) and the table of number of deaths by state.
+The table of deaths by state is transcribed, however, the information of the briefing table is updated with the open data.
 
 2020-04-20: La SSa aparentemente ha deprecado publicar la información de casos sospechosos, positivos y defunciones por estado de la forma en la que lo hacía.
 La información ahora se reporta en forma abierta en forma de archivos `.csv`. (Cf. `Open_data`)
