@@ -1,12 +1,20 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-04-22 T 19:20:00-05:00
+Última actualización/Last update: 2020-04-23 T 19:45:00-05:00
 
 **Nota/Note**:
 Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
 Am currently reordering the repository to make it more legible. I apologize for the inconvenience and for the delay in answering emails.
 
 ## Nota importantes / Important notes
+
+2020-04-23: El CTD tiene un mapa de casos acumulados similar al reportado inicialmente, sin embargo, los datos de la tabla resumen se siguen actualizando con la información de los datos abiertos.
+El número de muertes en Hidalgo reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.
+Este cambio también se refleja en los datos abiertos.
+
+2020-04-23: The CTD includes a map of the accumulated cases similar to the one reported initially, however, the data of the briefing table is being updated with the information of the open data.
+The number of deaths in Hidalgo reported today in the CTD is one unit less than the one reported yesterday.
+This change also occurs in the open data.
 
 2020-04-21: El CTD vuelve a tener un mapa con casos activos (con inicio de síntomas en los últimos 14 días) y la tabla de defunciones por estado.
 La tabla de defunciones se vuelve a transcribir, sin embargo, la tabla resumen se actualiza con la información de los datos abiertos.
