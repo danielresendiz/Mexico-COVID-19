@@ -1,6 +1,11 @@
 # Casos y fallecimientos  diarios / Daily cases and deaths
 
 **Note/Nota**
+2020-05-02: El número de muertes en Coahuila reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.
+
+2020-04-23: The number of deaths in Coahuila reported today in the CTD is one unit less than the one reported yesterday.
+
+**Note/Nota**
 2020-04-23: El número de muertes en Hidalgo reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.
 
 2020-04-23: The number of deaths in Hidalgo reported today in the CTD is one unit less than the one reported yesterday.

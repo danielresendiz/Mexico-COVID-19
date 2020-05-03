@@ -1,5 +1,11 @@
 # Notas para los CTD/Notes for the CTDs:
 
+## 2020-05-02
+
+- El número de muertes en Hidalgo reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.
+
+- The number of deaths in Hidalgo reported today in the CTD is one unit less than the one reported yesterday.
+
 ## 2020-04-21
 
 - El CTD hoy vuelve a incluir un mapa semejante al original, pero que contiene los casos "activos" (con fecha de inicio de síntomas durante los últimos 14 días), así como la tabla de número de fallecimientos por estado.
