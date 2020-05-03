@@ -148,10 +148,10 @@ end
 #Cambiamos el directorio de trabajo a dónde se encuentran los datos.
 cd("Open_data/COVID-19")
 
-fecha_análisis = Date("2020-05-01")
+fecha_análisis = Date("2020-05-02")
 
 #Los datos se encuentran en formato .csv al interior del archivo .zip:
-datos_zip = ZipFile.Reader(Dates.format(fecha_análisis, "yyyymmdd")*".zip")
+datos_zip = ZipFile.Reader(Dates.format(fecha_análisis, "yyyymm")*"/"*Dates.format(fecha_análisis, "yyyymmdd")*".zip")
 datos = CSV.read(datos_zip.files[1], header = 1)
 
 tabla_resumen(datos, fecha_análisis)
