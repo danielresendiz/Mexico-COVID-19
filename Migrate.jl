@@ -1,5 +1,5 @@
 #Script para migrar información de las series de tiempo conjeturadas a la tabla CTD
-using  CSV, DataFrames
+using  CSV, DataFrames, Dates
 
 abreviaturas_entidades = ["AGU", "BCN", "BCS", "CAM", "CHP", "CHH", "CMX", "COA", "COL", "DUR", "GUA", "GRO", "HID", "JAL", "MIC", "MOR", "MEX", "NAY", "NLE", "OAX", "PUE", "QUE", "ROO", "SLP", "SIN", "SON", "TAB", "TAM", "TLA", "VER", "YUC", "ZAC"]
 
@@ -17,11 +17,12 @@ function tipo_casos(datos, abreviatura_estado)
 end
 
 #Actualiza la tabla cumulativa del día a partir de la fecha y los datos de las series de tiempo conjeturadas.
-#La fecha se debe de poner como string e.g. "20200320"
-function fila_actualización(fecha)
+function fila_actualización(fecha = today())
+
+    fecha_string = Dates.format(fecha, "yyyymmdd")
 
     #Cargamos las series de tiempo
-    datos = CSV.read("Open_data/Time_series/Mexico_COVID19_$fecha.csv", header = 1)
+    datos = CSV.read("Open_data/Time_series/$(fecha_string[1:6])/Mexico_COVID19_$fecha_string.csv", header = 1)
 
     #Calcula los casos de cada estado
     casos_estados = map(estado -> tipo_casos(datos, estado), abreviaturas_entidades)
@@ -38,7 +39,7 @@ function fila_actualización(fecha)
     fila = string.(vcat(casos_estados..., reporte_país))
 
     #Agrega la fecha a la primer columna:
-    pushfirst!(fila, fecha[1:4]*"-"*fecha[5:6]*"-"*fecha[7:8])
+    pushfirst!(fila, string(fecha))
 
     #Agrega comas para el csv y lo junta todo en un string
     fila_csv = prod(fila[1:(end - 1)].*",")*fila[end]
