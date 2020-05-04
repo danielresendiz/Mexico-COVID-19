@@ -1,5 +1,11 @@
 # Notas para los CTD/Notes for the CTDs:
 
+## 2020-05-03
+
+- El número de muertes en Guerrero reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.
+
+- The number of deaths in Guerrero reported today in the CTD is one unit less than the one reported yesterday.
+
 ## 2020-05-02
 
 - El número de muertes en Hidalgo reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.

@@ -4,3 +4,4 @@
 | ------------------- | ----------  |
 | 2020-05-01   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-241427?idiom=es)  |
 | 2020-05-02   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-241474?idiom=es)  |
+| 2020-05-03   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-241486?idiom=es)  |
