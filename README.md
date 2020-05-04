@@ -1,12 +1,18 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-05-02 T 19:20:00-05:00
+Última actualización/Last update: 2020-05-03 T 19:20:00-05:00
 
 **Nota/Note**:
 Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
 Am currently reordering the repository to make it more legible. I apologize for the inconvenience and for the delay in answering emails.
 
 ## Nota importantes / Important notes
+
+2020-05-03: El número de muertes en Guerrero reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.
+Este cambio también se refleja en los datos abiertos.
+
+2020-05-02: The number of deaths in Guerrero reported today in the CTD is one unit less than the one reported yesterday.
+This change also occurs in the open data.
 
 2020-05-02: El número de muertes en Coahuila reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.
 Este cambio también se refleja en los datos abiertos.

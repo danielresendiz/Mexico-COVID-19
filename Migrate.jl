@@ -55,3 +55,5 @@ function fila_actualización(fecha = today())
 
     return "Done"
 end
+
+fila_actualización()
