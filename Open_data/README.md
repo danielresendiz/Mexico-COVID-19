@@ -1,6 +1,6 @@
 # Archivo  de datos abiertos oficiales/Official open data archive:
 
-Última actualización/Last update: 2020-05-02
+Última actualización/Last update: 2020-05-03
 
 **Nota/Note:**
 2020-04-19: A partir de hoy, los datos incluyen un identificador anónimo para cada paciente.
