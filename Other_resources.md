@@ -44,6 +44,14 @@ Disponible [aquí](https://coronavirus.gob.mx/datos/).
 
   One of the most well known databases, maintained by the team at Serendipia, [here](https://serendipia.digital/2020/03/datos-abiertos-sobre-casos-de-coronavirus-covid-19-en-mexico/).
 
+- Una base de datos muy bien mantenida con datos de los CTD y datos abiertos oficiales (originales y corregidos por problemas de codificación) por el equipo de [mexicovid](https://github.com/mexicovid19) (del cual forma parte [rodrigolece](https://github.com/rodrigolece)) está disponible [aquí](https://github.com/mexicovid19/Mexico-datos/).
+
+  A very well maintained database with data from the CTDs and official open databases (both original and corrected for encoding errors) by the team of [mexicovid](https://github.com/mexicovid19) (of which [rodrigolece](https://github.com/rodrigolece) is a part) is available [here](https://github.com/mexicovid19/Mexico-datos/).
+
+- Asimismo, ellos mantienen un tablero con bastante información desglosada por estado, sexo, defunciones y grupos de edad (entre otros) disponible [aquí](https://mexicovid19.github.io/Mexico/).
+
+  They also maintain a dashboard with plenty of infomation displayed by state, sex, deceased and age groups (among others) available [here](https://mexicovid19.github.io/Mexico/).
+
 - Una página con inforgrafías muy detalladas y una base de datos bastante completa que fué mantenida hasta abril por Elí Parra ([@elzr](https://twitter.com/elzr) en Twitter) [aquí](https://covidatos.mx/).
 
   A page with very detailed infographics and a very complete database maintatined up to April by Elí Parra ([@elzr](https://twitter.com/elzr) in Twitter) [here](https://covidatos.mx/).
