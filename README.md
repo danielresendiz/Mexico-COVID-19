@@ -1,12 +1,24 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-05-06 T 00:15:00-05:00
+Última actualización/Last update: 2020-05-06 T 01:15:00-05:00
 
 **Nota/Note**:
 Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
 Am currently reordering the repository to make it more legible. I apologize for the inconvenience and for the delay in answering emails.
 
 ## Nota importantes / Important notes
+
+2020-05-06: Las bases de datos abiertas a partir del 24 de abril contienen algunos errores de codificación. (La forma en la que se tratan cosas como acentos.)
+[rodrigolece](https://github.com/rodrigolece) y su equipo ([mexicovid19](https://github.com/mexicovid19)) publican las bases de datos con las correciones pertinentes para homogeneizar la codificación [aquí](https://github.com/mexicovid19/Mexico-datos/tree/master/datos_abiertos/raw).
+Asimismo, han publicado las instrucciones para realizar las correciones [aquí](https://github.com/mexicovid19/Mexico-datos#c%C3%B3digo).
+En el repositorio actual el archivo de bases de datos se mantiene de la forma en la que se publican oficialmente.
+*Muchas gracias a Rodrigo por su observación y por compartir la solución.*
+
+2020-05-06: The open databases from April 24 onward contain some encoding errors. (The way things like accents and diacritics are dealt with.)
+[rodrigolece](https://github.com/rodrigolece) and his team ([mexicovid19](https://github.com/mexicovid19)) publish the databases with the respective corrections to homogenize the encoding [here](https://github.com/mexicovid19/Mexico-datos/tree/master/datos_abiertos/raw).
+Additionally, they published the instructions to make the corrections [here](https://github.com/mexicovid19/Mexico-datos#c%C3%B3digo).
+In the present repository the archive of databases is maintained in the way they're officially published.
+*Special thanks to Rodrigo for his observation and for sharing the solution.*
 
 2020-05-05: (Nota respecto a los datos de 2020-04-14.)
 La base de datos abiertos de esta fecha al parecer contiene registrados más casos negativos que los reportados en el CTD.
