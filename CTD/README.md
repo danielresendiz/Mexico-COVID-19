@@ -32,7 +32,7 @@ Adicionalmente,  se tienen las siguientes columnas:
 - ```Susp_rep```: es el número total de casos sospechosos en el país, reportados oficialmente. ( *Sospechosos* en el CTD.)
 - ```Neg_rep```: es el número total de casos descartados (por laboratorio) en el país, reportados oficialmente. ( *Negativos* en el CTD.)
 - ```IRAG_Test```: **No reportado desde el 2020-04-03** es el número total de muestras de pacientes al azar(°°°) cuya muestra fue analizada en busca de SARS-CoV-2. (Reportado en el CTD a partir del 25 de febrero, anunciado el 23 de febrero.)
-- ```Tested_total```: es el número total de pruebas realizadas en el país, según datos oficiales. (Suma de las columnas ```Pos``` y ```Neg_rep```.)
+- ```Tested_total```: es el número total de pruebas realizadas *con resultado* en el país, según datos oficiales. (Suma de las columnas ```Pos``` y ```Neg_rep```.)
 - ```Recovered```: es el número total de casos confirmados recuperados en el país. (Suma de las columnas ```EDO_R```.)
 No hay números exactos reportados a partir del 23 de marzo.
 - ```Deceased```: es el número total de casos confirmados fallecidos en el país. (Suma de las columnas ```EDO_D```.)
@@ -78,7 +78,7 @@ Aditionally, we have the following columns:
 - ```Susp_rep```: is the total number of officially suspected cases in the country. ( *Sospechosos* in the CTD.)
 - ```Neg_rep```: is the total number of officially discarded (negative lab test) cases in the country. ( *Negativos* in the CTD.)
 - ```IRAG_Test```: **no longer reported (2020-04-03)** is the total number of samples from random patients(°°°) whose sample was tested for SARS-CoV-2. (Reported in the CTD from February 25 onwards, announced on February 23.)
-- ```Tested_total```: is the total number of tests done in the country, according to official data. (Sum of the ```Pos```, and ```Neg_rep``` columns.)
+- ```Tested_total```: is the total number of tests *with results* done in the country, according to official data. (Sum of the ```Pos```, and ```Neg_rep``` columns.)
 - ```Recovered```: is the total number of confirmed recovered cases in the country. (Sum of the ```EDO_R``` columns.)
 No exact number of recovered patients has been reported from March 23 onwards.
 - ```Deceased```: is the total number of confirmed deceased cases in the country. (Sum of the ```EDO_D``` columns.)

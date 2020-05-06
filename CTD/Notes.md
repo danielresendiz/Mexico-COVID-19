@@ -1,5 +1,16 @@
 # Notas para los CTD/Notes for the CTDs:
 
+## 2020-05-06
+
+Dada una observación (realizada el 17 de abril) sobre la forma en la que reporté el número total de pruebas realizadas en la tabla resumen cuando el CTD y sus tablas eran la fuente principal de información, hice una ligera modificación en la descripción del campo `Tested_total`. Efectivamente es el número total de casos con prueba de laboratorio con resultado.
+*Muchas gracias a Covid Mexico por su observación*
+(Y una muy tardía disculpa por el tiempo que me tomó poder atender la observación.)
+
+Due to an observation (done on April 17) on the way I reported the total number of tests done in the briefing table when the CTD and their accopanying tables were the main source of infomation, I did a slight modification in the description of the field `Tested_total`.
+It is, effectively, the total number of cases with a conclusive lab test.
+*Special thanks to Covid Mexico for their observation*
+(And a very tardy apology for the time it took me to address this observation.)
+
 ## 2020-05-05
 
 ### Nota respecto a los datos de 2020-04-14.
