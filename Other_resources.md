@@ -10,6 +10,10 @@ Listing of some interesting links.
 
   Information of the mexican hospitalary system [here](http://www.dgis.salud.gob.mx/contenidos/publicaciones/p_bie_gobmx.html).
 
+- Datos abiertos nacionales oficiales de recursos físicos (entre otros) por unidad hospitalaria (**última actualización 2018**) [aquí](https://datos.gob.mx/busca/dataset/recursos-en-salud-nivel-central).
+
+  Official national open data of physical resources (among others) by hospitalary unit (**last update 2018**) [here](https://datos.gob.mx/busca/dataset/recursos-en-salud-nivel-central).
+
 - Mapa oficial de la DGE (Dirección General de Epidemiología) [aquí](http://ncov.sinave.gob.mx/mapa.aspx).
 
   Official map of the DGE (General Directorate of Epidemiology by its acronym in Spanish) [here](http://ncov.sinave.gob.mx/mapa.aspx).
