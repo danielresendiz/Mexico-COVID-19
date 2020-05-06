@@ -3,6 +3,20 @@
 Última actualización/Last update: 2020-05-05
 
 **Nota/Note:**
+2020-05-05: (Nota respecto a los datos de 2020-04-14.)
+La base de datos abiertos de esta fecha al parecer contiene registrados más casos negativos que los reportados en el CTD.
+Sin embargo, el número de casos positivos y sospechosos parece concordar.
+Mario Romero [explica](https://github.com/mariorz/covid19-mx-time-series/wiki/Incidentes-encontrados-en-la-base-de-datos-DGE%E2%80%93COVID19) esto más a detalle.
+*Gracias a Mario Romero por su comentario.*
+(Una disculpa a todos por la tardanza en hacer la nota.)
+
+2020-05-05: (Note regarding the data of 2020-04-14.)
+The open database of this date apparently registers more negative cases than those reported in the CTD.
+However, the number of positive and suspect cases seems to match.
+Mario Romero [explains](https://github.com/mariorz/covid19-mx-time-series/wiki/Incidentes-encontrados-en-la-base-de-datos-DGE%E2%80%93COVID19) this more thoroughly.
+*Thanks to Mario Romero for his comment.*
+(A sincere apology to all for the delay in registering this note.)
+
 2020-04-19: A partir de hoy, los datos incluyen un identificador anónimo para cada paciente.
 Adicionalmente, la SSa ha publicado un archivo de las bases de datos publicadas [aquí](https://www.gob.mx/salud/documentos/datos-abiertos-bases-historicas-direccion-general-de-epidemiologia).
 Este archivo incluye datos desde el 2020-04-12 con los identificadores de cada paciente incluídos.

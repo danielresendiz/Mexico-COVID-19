@@ -1,5 +1,21 @@
 # Notas para los CTD/Notes for the CTDs:
 
+## 2020-05-05
+
+### Nota respecto a los datos de 2020-04-14.
+La base de datos abiertos de esta fecha al parecer contiene registrados más casos negativos que los reportados en el CTD.
+Sin embargo, el número de casos positivos y sospechosos parece concordar.
+Mario Romero [explica](https://github.com/mariorz/covid19-mx-time-series/wiki/Incidentes-encontrados-en-la-base-de-datos-DGE%E2%80%93COVID19) esto más a detalle.
+*Gracias a Mario Romero por su comentario.*
+(Una disculpa a todos por la tardanza en hacer la nota.)
+
+### Note regarding 2020-04-14's data.
+The open database of this date apparently registers more negative cases than those reported in the CTD.
+However, the number of positive and suspect cases seems to match.
+Mario Romero [explains](https://github.com/mariorz/covid19-mx-time-series/wiki/Incidentes-encontrados-en-la-base-de-datos-DGE%E2%80%93COVID19) this more thoroughly.
+*Thanks to Mario Romero for his comment.*
+(A sincere apology to all for the delay in registering this note.)
+
 ## 2020-05-03
 
 - El número de muertes en Guerrero reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.

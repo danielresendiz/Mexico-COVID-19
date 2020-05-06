@@ -1,12 +1,26 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-05-05 T 20:00:00-05:00
+Última actualización/Last update: 2020-05-06 T 00:15:00-05:00
 
 **Nota/Note**:
 Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
 Am currently reordering the repository to make it more legible. I apologize for the inconvenience and for the delay in answering emails.
 
 ## Nota importantes / Important notes
+
+2020-05-05: (Nota respecto a los datos de 2020-04-14.)
+La base de datos abiertos de esta fecha al parecer contiene registrados más casos negativos que los reportados en el CTD.
+Sin embargo, el número de casos positivos y sospechosos parece concordar.
+Mario Romero [explica](https://github.com/mariorz/covid19-mx-time-series/wiki/Incidentes-encontrados-en-la-base-de-datos-DGE%E2%80%93COVID19) esto más a detalle.
+*Gracias a Mario Romero por su comentario.*
+(Una disculpa a todos por la tardanza en hacer la nota.)
+
+2020-05-05: (Note regarding the data of 2020-04-14.)
+The open database of this date apparently registers more negative cases than those reported in the CTD.
+However, the number of positive and suspect cases seems to match.
+Mario Romero [explains](https://github.com/mariorz/covid19-mx-time-series/wiki/Incidentes-encontrados-en-la-base-de-datos-DGE%E2%80%93COVID19) this more thoroughly.
+*Thanks to Mario Romero for his comment.*
+(A sincere apology to all for the delay in registering this note.)
 
 2020-05-03: El número de muertes en Guerrero reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.
 Este cambio también se refleja en los datos abiertos.
