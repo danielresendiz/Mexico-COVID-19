@@ -1,5 +1,12 @@
 # Notas para los CTD/Notes for the CTDs:
 
+## 2020-05-24
+
+- El número de muertes en Morelos reportado el día de hoy en los datos del CTD es dos unidades menor al reportado ayer.
+
+- The number of deaths in Morelos reported today in the CTD is two units less than the one reported yesterday.
+
+
 ## 2020-05-06
 
 Dada una observación (realizada el 17 de abril) sobre la forma en la que reporté el número total de pruebas realizadas en la tabla resumen cuando el CTD y sus tablas eran la fuente principal de información, hice una ligera modificación en la descripción del campo `Tested_total`. Efectivamente es el número total de casos con prueba de laboratorio con resultado.
