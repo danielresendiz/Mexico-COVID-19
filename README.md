@@ -1,12 +1,18 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-05-22 T 19:06:00-05:00
+Última actualización/Last update: 2020-05-24 T 19:43:00-05:00
 
 **Nota/Note**:
 Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
 Am currently reordering the repository to make it more legible. I apologize for the inconvenience and for the delay in answering emails.
 
 ## Nota importantes / Important notes
+
+2020-05-24: El número de muertes en Morelos reportado el día de hoy en los datos del CTD es dos unidades menor al reportado ayer.
+Este cambio también se refleja en los datos abiertos.
+
+2020-05-24: The number of deaths in Morelos reported today in the CTD is two units less than the one reported yesterday.
+This change also occurs in the open data.
 
 2020-05-06: Las bases de datos abiertas a partir del 24 de abril contienen algunos errores de codificación. (La forma en la que se tratan cosas como acentos.)
 [rodrigolece](https://github.com/rodrigolece) y su equipo ([mexicovid19](https://github.com/mexicovid19)) publican las bases de datos con las correciones pertinentes para homogeneizar la codificación [aquí](https://github.com/mexicovid19/Mexico-datos/tree/master/datos_abiertos/raw).
