@@ -1,6 +1,11 @@
 # Casos y fallecimientos  diarios / Daily cases and deaths
 
 **Note/Nota**
+2020-05-26: El número de muertes en Coahuila reportado el día de hoy en los datos del CTD es una unidad menor al reportado ayer.
+
+2020-05-26: The number of deaths in Coahuila reported today in the CTD is one unit less than the one reported yesterday.
+
+**Note/Nota**
 2020-05-24: El número de muertes en Morelos reportado el día de hoy en los datos del CTD es dos unidades menor al reportado ayer.
 
 2020-05-24: The number of deaths in Morelos reported today in the CTD is two units less than the one reported yesterday.
