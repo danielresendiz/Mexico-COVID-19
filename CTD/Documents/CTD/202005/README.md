@@ -31,3 +31,4 @@
 | 2020-05-27  | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-243696?idiom=es)   |
 | 2020-05-28   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-243698?idiom=es)   |
 | 2020-05-29   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-243697?idiom=es)|
+| 2020-05-30   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-243699?idiom=es)|
