@@ -1,12 +1,27 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-06-11 T 19:55:00-05:00
+Última actualización/Last update: 2020-06-11 T 21:33:00-05:00
 
 **Nota/Note**:
 Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
 Am currently reordering the repository to make it more legible. I apologize for the inconvenience and for the delay in answering emails.
 
 ## Nota importantes / Important notes
+
+2020-06-11: Los datos de la tabla `Mexico_COVID19_CTD.csv` discrepan estatalmente de los datos presentados en otras plataformas (por ejemplo [el dashboard oficial](https://coronavirus.gob.mx/datos/)), supongo, al menos desde el 2020-04-19.
+Esto se debe a una *diferencia de procedimiento* a la forma de considerar los casos a partir de los datos abiertos.
+La tabla mantenida en este repositorio se clasifica por *la entidad de la unidad de atención médica*, mientras que los datos del dashboard oficial se clasifica por *la entidad de residencia del paciente*.
+El archivo `Comparativa_RES_UM.jl` muestra un ejemplo de la dos formas para su comparación.
+Hasta dónde se mencione lo contrario, se seguirá manteniendo la clasificación por la entidad de la unidad médica de atención en el repositorio.
+*Muchas gracias a Luis G. Canales por su observación.*
+
+2020-06-11: The data of the table `Mexico_COVID19_CTD.csv`
+isn't equal (by state) to the data presented in other platforms (such as the [official dashboard](https://coronavirus.gob.mx/datos/).)
+This difference dates back, I suppose, at least to 2020-04-19.
+This is due to a *difference in procedure* when classifying the data from the open data.
+The table maintained in this repository is classified by the *state of the medical unit attending the case*, meanwhile, in the offical dashboard the data is classified by *state of residence of the patient*.
+The file `Comparativa_RES_UM.jl` shows an example of the two methods so they may be compared.
+*Special thanks to Luis G. Canales for his observation.*
 
 2020-06-01: A partir del 2020-06-01 se dejan de transcribir las tablas de datos de defunciones en el CTD dado que esta información se reporta en los datos abiertos y la tabla resumen.
 Se sigue archivando el CTD.

@@ -4,6 +4,18 @@ Listado de algunos enlaces de interés.
 
 Listing of some interesting links.
 
+**Nota/Note: La información ofrecida en estas fuentes puede diferir de la presentada aquí.
+Un ejemplo notable de esto es la información en el dashboard oficial.
+La diferencia en este caso consiste en la forma de clasificar los casos por estado (de la unidad de atención contra de residencia de paciente).
+(Cf. nota del 2020-06-11 en `README.md`)
+*Gracias a Luis G. Canales por su observación.*
+
+The information in these resources may differ from the one presented here.
+A notable example of this is the information in the official dashboard.
+The difference in this case is due to the way of classifying the cases by state (of the medical unit attending the case vs. the residence of the patient).
+(Cf. note of 2020-06-11 in `README.md`)
+*Special thanks to Luis G. Canales for his observation.*
+
 ## Datos oficiales/Official data
 
 - Información del sistema hospitalario en México [aquí](http://www.dgis.salud.gob.mx/contenidos/publicaciones/p_bie_gobmx.html).
