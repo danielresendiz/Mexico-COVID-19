@@ -1,6 +1,6 @@
 # Archivo  de datos abiertos oficiales/Official open data archive:
 
-Última actualización/Last update: 2020-06-10
+Última actualización/Last update: 2020-06-11
 
 **Nota/Note:**
 2020-05-06: Las bases de datos abiertas a partir del 24 de abril contienen algunos errores de codificación. (La forma en la que se tratan cosas como acentos.)
