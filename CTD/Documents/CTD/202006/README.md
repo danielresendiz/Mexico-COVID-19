@@ -15,3 +15,4 @@
 | 2020-06-11   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-244656?idiom=es) |
 | 2020-06-12   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-244657?idiom=es) |
 | 2020-06-13   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-244658?idiom=es) |
+| 2020-06-14   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-244659?idiom=es) |
