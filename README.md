@@ -8,6 +8,16 @@ Am currently reordering the repository to make it more legible. I apologize for 
 
 ## Nota importantes / Important notes
 
+2020-06-19: Todas mis contribuciones previas, presentes y futuras son liberadas bajo la licencia MIT.
+@rodrigolece ha también liberado sus contribuciones a este repositorio bajo los mismos términos. (https://github.com/carranco-sga/Mexico-COVID-19/pull/7#issuecomment-636704565).
+Esta licencia no aplica a ningún documento o información oficial archivada u ofrecida aquí, dado que pueden estar distribuídas o pudieron haber sido distribuídas bajo sus propias licencias.
+Esto libera todas las aportaciones originales bajo la licencia MIT.
+
+2020-06-19: All my prior, current and future contributions on this repository are being released under the MIT License.
+@rodrigolece has kindly freed his contributions to this repository under the MIT license, too. (https://github.com/carranco-sga/Mexico-COVID-19/pull/7#issuecomment-636704565).
+This license doesn't apply to any kind of official information or documents archived or mirrored here, since they are being or might have been distributed under their own licenses.
+This releases all our original contributions under the MIT license.
+
 2020-06-11: Los datos de la tabla `Mexico_COVID19_CTD.csv` discrepan estatalmente de los datos presentados en otras plataformas (por ejemplo [el dashboard oficial](https://coronavirus.gob.mx/datos/)), supongo, al menos desde el 2020-04-19.
 Esto se debe a una *diferencia de procedimiento* a la forma de considerar los casos a partir de los datos abiertos.
 La tabla mantenida en este repositorio se clasifica por *la entidad de la unidad de atención médica*, mientras que los datos del dashboard oficial se clasifica por *la entidad de residencia del paciente*.
