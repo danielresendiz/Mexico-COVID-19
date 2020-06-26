@@ -1,6 +1,6 @@
 # Reportes técnicos CONACyT/CONACyT technical reports.
 
-Última actualización/Last update: 2020-06-24 T 21:13:00-05:00 (No changes)
+Última actualización/Last update: 2020-06-25 T 20:00:00-05:00 (No changes)
 
 Archivo de reportes técnicos de grupos de trabajo del CONACyT. [Link](https://coronavirus.conacyt.mx/productos/index.html).
 
