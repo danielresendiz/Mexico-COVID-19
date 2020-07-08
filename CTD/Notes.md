@@ -1,5 +1,11 @@
 # Notas para los CTD/Notes for the CTDs:
 
+## 2020-07-07
+
+A partir de hoy, 2020-07-07, el CTD incluye gráficas de casos fatales, sospechosos y positivos desglosadas por estados que se presentaban en las conferencias diarias.
+
+From today on, 2020-07-07, the CTD includes graphs of fatal, suspect and positive cases per state that were presented in the daily press briefings.
+
 ## 2020-05-24
 
 - El número de muertes en Morelos reportado el día de hoy en los datos del CTD es dos unidades menor al reportado ayer.
