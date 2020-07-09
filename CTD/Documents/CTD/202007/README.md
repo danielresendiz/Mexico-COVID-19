@@ -9,7 +9,7 @@
 | 2020-07-05   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-246460?idiom=es) |
 | 2020-07-06   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-247383?idiom=es) |
 | 2020-07-07   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-247384?idiom=es) |
-| 2020-07-08   | [Link]() |
+| 2020-07-08   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-247385?idiom=es) |
 | 2020-07-09   | [Link]() |
 | 2020-07-10   | [Link]() |
 | 2020-07-11   | [Link]() |
