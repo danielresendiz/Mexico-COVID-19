@@ -17,7 +17,7 @@
 | 2020-07-13   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-247997?idiom=es) |
 | 2020-07-14   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-247998?idiom=es) |
 | 2020-07-15   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-248000?idiom=es) |
-| 2020-07-16   | [Link]() |
+| 2020-07-16   | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-248001?idiom=es) |
 | 2020-07-17   | [Link]() |
 | 2020-07-18   | [Link]() |
 | 2020-07-19   | [Link]() |
