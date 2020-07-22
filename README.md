@@ -2,11 +2,17 @@
 
 Última actualización/Last update: 2020-07-21T22:31:04-05:00
 
-**Nota/Note**:
-Actualmente me encuentro reordenando el repositorio para hacerlo más legible. Una disculpa por la molestia y por la tardanza en contestar correos.
-Am currently reordering the repository to make it more legible. I apologize for the inconvenience and for the delay in answering emails.
-
 ## Nota importantes / Important notes
+
+2020-07-21: He automatizado más la forma en la que construyo los paquetes de actualizaciones de las fuentes oficiales.
+Desafortunadamente, el servidor de CONACyT bloqueó mi computadora debido a la automatización que adicioné para descargar los reportes.
+Esto provocó que las actualizaciones de CONACyT del 2020-07-17 hasta 2020-07-21T22:31:04-05:00 fueran sólo para la fecha del directorio y no incluyeran nuevos reportes.
+He descargado los reportes manualmente el día de hoy, y tendré más cuidado con la forma en la que son actualizados en el futuro.kkkk
+
+2020-07-21: I've further automatized the way I build the update packages from the official sources.
+Unfortunately, CONACyT's server flagged my computer due to the automation I included to download their reports.
+This provoked that the CONACyT updates from 2020-07-17 to 2020-07-21T22:31:04-05:00 were just for the date itself and did not include the reports.
+I've downloaded the reports manually today, and will be more mindful of how they're updated in the future.
 
 2020-06-19: Todas mis contribuciones previas, presentes y futuras son liberadas bajo la licencia MIT.
 @rodrigolece ha también liberado sus contribuciones a este repositorio bajo los mismos términos. (https://github.com/carranco-sga/Mexico-COVID-19/pull/7#issuecomment-636704565).
