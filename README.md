@@ -7,7 +7,7 @@
 2020-07-21: He automatizado más la forma en la que construyo los paquetes de actualizaciones de las fuentes oficiales.
 Desafortunadamente, el servidor de CONACyT bloqueó mi computadora debido a la automatización que adicioné para descargar los reportes.
 Esto provocó que las actualizaciones de CONACyT del 2020-07-17 hasta 2020-07-21T22:31:04-05:00 fueran sólo para la fecha del directorio y no incluyeran nuevos reportes.
-He descargado los reportes manualmente el día de hoy, y tendré más cuidado con la forma en la que son actualizados en el futuro.kkkk
+He descargado los reportes manualmente el día de hoy, y tendré más cuidado con la forma en la que son actualizados en el futuro.
 
 2020-07-21: I've further automatized the way I build the update packages from the official sources.
 Unfortunately, CONACyT's server flagged my computer due to the automation I included to download their reports.
