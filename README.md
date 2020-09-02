@@ -1,6 +1,6 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-08-31T20:18:03-05:00
+Última actualización/Last update: 2020-09-01T21:05:41-05:00
 
 ## Nota importantes / Important notes
 
