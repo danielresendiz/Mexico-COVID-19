@@ -1,8 +1,18 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-09-22T20:18:35-05:00
+Última actualización/Last update: 2020-09-23T20:35:00-05:00
 
 ## Nota importantes / Important notes
+
+2020-09-23: Los CTDs también son archivados históricamente de forma oficial.
+El enlace se lista en el directorio de los mismos.
+Adicionalmente, desde el 2020-08-25 ha habido un cambio en la definición de caso sospechoso.
+El comunicado correspondiente se encuentra en la carpeta principal de los CTDs.
+
+2020-09-23: The CTDs are also historically archived in an official page.
+The link is in the main CTD directory.
+Additionally, on 2020-08-25 the definition of suspect case was changed.
+The communiqué describing this is in hte main CTD directory.
 
 2020-07-21: He automatizado más la forma en la que construyo los paquetes de actualizaciones de las fuentes oficiales.
 Desafortunadamente, el servidor de CONACyT bloqueó mi computadora debido a la automatización que adicioné para descargar los reportes.
