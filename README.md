@@ -1,8 +1,14 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-10-07T19:00:52-05:00
+Última actualización/Last update: 2020-10-08T00:28:24-05:00
 
 ## Nota importantes / Important notes
+
+2020-10-08: Las entradas en la tabla resumen difieren de los datos en los CTDs los días 2020-10-05 y 2020-10-06 debido a un cambio de metodología en la forma de dictaminar un caso confirmado de COVID-19.
+Éste cambio se refleja en los datos abiertos, usados para construir la tabla resumen, a partir de 2020-10-07, por lo que los datos del CTD y de la tabla resumen coinciden de nuevo a partir de 2020-10-07.
+
+2020-10-08: The entries in the briefing table differ from the data in the CTDs of 2020-10-05 and 2020-10-06 due to a change in metodology in determining a confirmed case of COVID-19.
+This change is reflected in the open data, used to construct the briefing table, from 2020-10-07 onwards, so the data from the CTD and those of the briefing table match again from 2020-10-07 onwards.
 
 2020-09-23: Los CTDs también son archivados históricamente de forma oficial.
 El enlace se lista en el directorio de los mismos.
