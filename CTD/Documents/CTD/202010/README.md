@@ -21,3 +21,4 @@
 | 2020-10-15 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-254679) |
 | 2020-10-16 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-254680) |
 | 2020-10-17 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-254681) |
+| 2020-10-18 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-254682) |
