@@ -1,5 +1,5 @@
 # Informes sobre el personal de Salud - COVID-19 en México
  
-Última actualización/Last update: 2020-10-01 T 20:18:00-05:00
+Última actualización/Last update: 2020-11-05 T 22:13:00-06:00
 
  [Fuente](https://www.gob.mx/salud/documentos/informes-sobre-el-personal-de-salud-covid-19-en-mexico)
