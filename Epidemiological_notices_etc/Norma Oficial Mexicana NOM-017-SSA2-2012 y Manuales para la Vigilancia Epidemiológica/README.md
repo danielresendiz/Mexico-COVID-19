@@ -1,5 +1,5 @@
 # Norma Oficial Mexicana NOM-017-SSA2-2012 y Manuales para la Vigilancia Epidemiológica
 
-Última actualización/Last update: 2020-11-10 T 20:53:00-05:00
+Última actualización/Last update: 2020-11-19 T 21:41:00-06:00
 
  [Fuente](https://www.gob.mx/salud/documentos/manuales-para-la-vigilancia-epidemiologica-102563)
