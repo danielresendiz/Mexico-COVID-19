@@ -1,8 +1,12 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2020-11-26T20:25:51-06:00
+Última actualización/Last update: 2020-11-28T16:58:22-06:00
 
 ## Nota importantes / Important notes
+
+2020-11-28: A partir del día de ayer, 2020-11-27, se incluyen pruebas de antígeno en la clasificación de casos sospechosos y positivos en los datos abiertos.
+
+2020-11-28: From yesterday (2020-11-27) onward, the open data includes antigen tests in the classification of suspect and positive cases.
 
 2020-10-08: Las entradas en la tabla resumen difieren de los datos en los CTDs los días 2020-10-05 y 2020-10-06 debido a un cambio de metodología en la forma de dictaminar un caso confirmado de COVID-19.
 Éste cambio se refleja en los datos abiertos, usados para construir la tabla resumen, a partir de 2020-10-07, por lo que los datos del CTD y de la tabla resumen coinciden de nuevo a partir de 2020-10-07.
