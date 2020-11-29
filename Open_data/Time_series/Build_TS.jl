@@ -36,11 +36,11 @@ function cargar_datos_fecha(datos, fecha_corte)
     datos_corte = filter(row -> row[:FECHA_INGRESO] <= fecha_corte, datos)
 
     #Clasifiquemos los casos:
-    #Positivos -> :CLASIFICACION_FINAL == 1,2,3
-    #Sospechosos -> :CLASIFICACION_FINAL == 6 (resultado pendiente)
+    #Positivos -> :CLASIFICACION_FINAL == 1,2,3,8 (positivo por laboratorio, dictaminación, asociación epidemiológica o prueba de antígeno)
+    #Sospechosos -> :CLASIFICACION_FINAL == 6,9 (resultado pendiente o con prueba de antígeno negativa)
     #Negativos -> :CLASIFICACION_FINAL == 7
-    positivos = datos_corte[datos_corte.CLASIFICACION_FINAL .∈ [[1, 2, 3]], :]
-    sospechosos = datos_corte[datos_corte.CLASIFICACION_FINAL .== 6, :]
+    positivos = datos_corte[datos_corte.CLASIFICACION_FINAL .∈ [[1, 2, 3, 8]], :]
+    sospechosos = datos_corte[datos_corte.CLASIFICACION_FINAL .∈ [[6, 9]], :]
     negativos = datos_corte[datos_corte.CLASIFICACION_FINAL .== 7, :]
 
     #Removemos los fallecidos, si su fallecimiento es anterior o igual a la fecha de corte:
