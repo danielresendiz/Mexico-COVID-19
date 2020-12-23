@@ -25,3 +25,4 @@
 | 2020-12-19 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-259910) |
 | 2020-12-20 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-259909) |
 | 2020-12-21 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-259911) |
+| 2020-12-22 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-259912) |
