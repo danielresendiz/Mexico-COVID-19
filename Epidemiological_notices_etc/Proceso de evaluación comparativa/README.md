@@ -1,6 +1,6 @@
 # Proceso de evaluación comparativa para la identificación del virus SARS-CoV-2, agente causal de COVID-19
 ## Laboratorios con reconocimiento para realizar el diagnóstico de SARS-CoV-2
  
- Última actualización/Last update: 2020-12-17 T 21:00:00-06:00
+ Última actualización/Last update: 2020-12-24 T 16:40:00-06:00
  
  [Fuente]( https://www.gob.mx/salud/documentos/coronavirus-covid-19-240014?state=published)
