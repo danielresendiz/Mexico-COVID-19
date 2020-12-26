@@ -1,6 +1,6 @@
 # Ocupación hospitalaria in ZMVM/ Hospitalary occupation in ZMVM
 
-Última actualización/Last update: 2020-12-24T22:33:12-06:00
+Última actualización/Last update: 2020-12-25T20:53:04-06:00
 
 Ocupación hospitalaria en la Zona Metropolitana del Valle de México (ZMVM) durante la fase 3 de la epidemia. [Link](https://datos.cdmx.gob.mx/explore/dataset/personas-hospitalizadas-covid19/information/?sort=-camas_intubados_cdmx)
 
