@@ -22,7 +22,7 @@ function fila_actualización(fecha = today())
     fecha_string = Dates.format(fecha, "yyyymmdd")
 
     #Cargamos las series de tiempo
-    datos = CSV.read("Open_data/Time_series/$(fecha_string[1:6])/Mexico_COVID19_$fecha_string.csv", header = 1)
+    datos = CSV.read("Open_data/Time_series/$(fecha_string[1:6])/Mexico_COVID19_$fecha_string.csv", header = 1, DataFrame)
 
     #Calcula los casos de cada estado
     casos_estados = map(estado -> tipo_casos(datos, estado), abreviaturas_entidades)

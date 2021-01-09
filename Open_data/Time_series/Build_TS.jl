@@ -152,6 +152,6 @@ fecha_análisis = today()
 
 #Los datos se encuentran en formato .csv al interior del archivo .zip:
 datos_zip = ZipFile.Reader(Dates.format(fecha_análisis, "yyyymm")*"/"*Dates.format(fecha_análisis, "yyyymmdd")*".zip")
-datos = CSV.read(datos_zip.files[1], header = 1, types = Dict(:FECHA_DEF => String))
+datos = CSV.read(datos_zip.files[1], header = 1, types = Dict(:FECHA_DEF => String), DataFrame)
 
 tabla_resumen(datos, fecha_análisis)
