@@ -1,8 +1,16 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2021-01-18T22:30:47-06:00
+Última actualización/Last update: 2021-01-19T22:29:57-06:00
 
 ## Nota importantes / Important notes
+
+2021-01-19: A partir del 2021-01-08 la tabla usada por el Gobierno de la Ciudad de México para reportar la ocupación hospitalaria dejó de actualizarse debido a que no contenía la lista completa de los hospitales de la Ciudad de México. [Link](https://datos.cdmx.gob.mx/explore/dataset/personas-hospitalizadas-covid19/information/?sort=-camas_intubados_cdmx)
+Esta tabla es reemplazada por la tabla reportada [aquí](https://datos.cdmx.gob.mx/explore/dataset/personas-hospitalizadas-en-hospitales-de-zmvm/table/?sort=fecha).
+Esta tabla se archiva en la sección "Hospitalary_occupation_ZMVM".
+
+2021-01-19: From 2021-01-08 the table used by the Government of Mexico City to report the hospitalary occupation will not be updated due to it not containing the full list of Mexico City's hospitals. [Link](https://datos.cdmx.gob.mx/explore/dataset/personas-hospitalizadas-covid19/information/?sort=-camas_intubados_cdmx)
+This table is superseeded by the table reported [here](https://datos.cdmx.gob.mx/explore/dataset/personas-hospitalizadas-en-hospitales-de-zmvm/table/?sort=fecha).
+This table is archived in the section "Hospitalary_occupation_ZMVM".
 
 2020-11-28: A partir del día de ayer, 2020-11-27, se incluyen pruebas de antígeno en la clasificación de casos sospechosos y positivos en los datos abiertos.
 
